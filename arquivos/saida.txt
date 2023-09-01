@@ -1,0 +1,3 @@
+Diferença: conjunto 1 {'1', '4', '2', '3', '5'}, conjunto 2 {'3', '4', '5'}. Resultado: {'1', '2'}
+União: conjunto 1 {'3', '1', '4', '2'}, conjunto 2 {'8', '1', '7', '5'}. Resultado: {'1', '4', '2', '3', '5', '7', '8'}
+Interseção: conjunto 1 {'A', 'B', 'D', 'C'}, conjunto 2 {'F', 'G', 'E'}. Resultado: set()
